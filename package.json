@@ -1,0 +1,11 @@
+{
+  "name": "json2typescript-example",
+  "version": "1.0.0",
+  "description": "Example project demonstrating that json2typescript array decorators works",
+  "author": "Jon Miller",
+  "private": true,
+  "dependencies": {
+    "json2typescript": "^1.2.3"
+  },
+  "devDependencies": {}
+}
