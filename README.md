@@ -10,7 +10,7 @@ Requires typescript (`tsc`) to be installed - I ran this using 3.7.4. Node is al
 
 ``` bash
 # install dependencies
-$ npm run install
+$ npm install
 # compile ts files
 $ tsc
 # run index
