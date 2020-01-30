@@ -16,3 +16,10 @@ $ tsc
 # run index
 $ node index.js
 ```
+
+## Expected output:
+``` bash
+$ node index.js
+Obj { items: [ Item { bar: 'somestring' } ] }
+foo somestring
+```
